@@ -31,7 +31,7 @@ Get started with the project by following the step-by-step installation guide. P
 
 1. Download ZIP file/Checkout to your local.
 
-2. Delete node-modules folder
+2. Delete node-modules folder if exist.
 
 2. Navigate to the project directory:
 
