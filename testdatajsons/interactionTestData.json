@@ -1,0 +1,8 @@
+{
+    "SectionTobeSelectedTc06":"Interactions",
+    "MenuItemTobeSelectedTc06":"Droppable",
+    "DragAndDrop": {
+        "ExpectedDropBoxTestBeforeDrop": "Drop here",
+        "ExpectedDropBoxTestAfterDrop": "Dropped!"
+    }
+}

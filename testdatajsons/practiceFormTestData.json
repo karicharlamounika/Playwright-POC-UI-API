@@ -1,0 +1,14 @@
+{
+    "SectionTobeSelectedTc03":"Forms",
+    "MenuItemTobeSelectedTc03":"Practice Form",
+    "PracticeForm": {
+        "NewRecordValues": ["Gerimedica", "BV", "test@test.com", "0123456789", "Physics", "testdatajsons", "Netherlands", "NCR", "Delhi"],
+        "Gender": "Male",
+        "Year": "1990",
+        "Month": "January",
+        "Day": "15",
+        "Hobby": "Reading",
+        "fileName": "testFile.png"
+    },
+    "ExpectedConfirmationMsg": "Thanks for submitting the form"
+}

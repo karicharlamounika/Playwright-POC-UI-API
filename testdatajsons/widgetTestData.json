@@ -1,0 +1,14 @@
+{
+    "SectionTobeSelectedTc04":"Widgets",
+    "MenuItemTobeSelectedTc04":"Progress Bar",
+    "ProgressBar": {
+        "MaxPercentageValue": "100%",
+        "MaxValue": 100,
+        "MinPercentageValue": "0%",
+        "MinValue": 0,
+        "buttonTextPostStart": "Stop",
+        "buttonTextPostStop": "Start"
+    },
+    "MenuItemTobeSelectedTc05":"Tool Tips",
+    "ExpectedToolTipText": "You hovered over the Button"
+}

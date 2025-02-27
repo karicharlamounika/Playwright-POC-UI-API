@@ -1,0 +1,12 @@
+{
+    "SectionTobeSelectedTc01":"Elements",
+    "MenuItemTobeSelectedTc01":"Web Tables",
+    "WebTables": {
+        "ExpectedFieldLabels": ["First Name", "Last Name", "Email", "Age", "Salary", "Department"],
+        "NewRecordValues": ["Alden", "Cantrell", "test@test.com", "30", "12345", "QA"],
+        "FirstNameOfRecordTobeUpdated": "Alden",
+        "UpdatedFirstNameValue": "Jake",
+        "UpdatedLastNameValue": "Build"
+    },
+    "MenuItemTobeSelectedTc02": "Broken Links - Images"
+}
