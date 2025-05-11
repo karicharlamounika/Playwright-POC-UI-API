@@ -1,0 +1,19 @@
+name: E2E Test execution on GitHub using github actions
+
+on:
+  push:
+      branch : [main]
+
+jobs:
+   - job: e2e test execution of API and UI
+     runs-on: ubuntu-latest
+
+     steps:
+     - name: Run E2E tests
+       run: npx playwright tests
+
+     - name: Upload test report
+       uses: actions/upload-artifact@v4
+       with:
+          name: playwright-report-using-githubactions
+          path: ./test-results
